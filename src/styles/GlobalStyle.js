@@ -16,10 +16,10 @@ export const GlobalStyle = createGlobalStyle`
   }
   :root{
     font-size: 62.5%;
-    --salmao: #F2A2A9;
-    --roxo: #948EBF;
-    --cinza: #F2F2F2;
-    --preto: #0D0D0D
+    --red: #F2A2A9;
+    --blue: #948EBF;
+    --white: #F2F2F2;
+    --black: #0D0D0D
 
 }
   background-color: var(--cinza);
